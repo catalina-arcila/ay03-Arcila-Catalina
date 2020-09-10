@@ -28,6 +28,7 @@ html, body{
   
   #titulo {
     padding-block: 2px;
+    color: lavenderblush;
     background-size: auto;
     background-color: indianred;
     text-underline-position: below;
